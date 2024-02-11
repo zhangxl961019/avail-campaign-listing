@@ -1,0 +1,9 @@
+{
+	  "name": "LoserChick",
+	    "logo": "https://i.imgur.com/0KUHPnZ.png",
+	      "rpc_url": "http:// 198.13.38.135:9944",
+	        "explorer_url": "http:// 198.13.38.135:4000",
+		  "metrics_endpoint": "http:// 198.13.38.135:9615/metrics",
+		    "id": "8dde6d65-3237-4d40-adb4-64119cfa789f"
+}
+
